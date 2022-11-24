@@ -1,3 +1,3 @@
 # Trilha JS Developer - Pokedex
 
-Teste de modificação
+criando lista de pokemon com a evolução deles usando API
